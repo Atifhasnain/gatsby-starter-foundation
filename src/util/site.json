@@ -2,11 +2,11 @@
   "meta": {
     "title": "Rear & Front",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
+    "description": "All Rights Reserved. Designed with ❤ by GoOnline.dev",
     "siteUrl": "https://foundation.stackrole.com",
-    "image": "/assets/stackrole.png",
-    "iconimage": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "image": "/assets/rearandfront.jpeg",
+    "iconimage": "/assets/rearandfront.jpeg",
+    "twitterUsername": ""
   },
   "ga": "UA-XXXXXXXXX-X"
 }
