@@ -1,9 +1,9 @@
 ---
 template: index-page
 slug: /
-title: Wyatt Morriss
-tagline: Graphic Designer
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+title: Rear & Front
+tagline: Comics, Art & Entertainment
+featuredImage: /assets/rearandfront.jpeg
 cta:
   ctaText: Know more
   ctaLink: /about
