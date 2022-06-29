@@ -36,6 +36,8 @@ My child is geeky. A girl who is extremely quiet, intelligent, yet slightly clum
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
+
+
 ## \#3 The first time you breastfeed is unforgettable
 
 ![](/assets/mother-3.jpg)
@@ -47,8 +49,6 @@ My child is geeky. A girl who is extremely quiet, intelligent, yet slightly clum
 ![](/assets/mother-4.jpg)
 
 ## \#5 our Breasts Are Always Sore
-
-
 
 ![](/assets/mother-5.jpg)
 
@@ -105,7 +105,5 @@ My child is geeky. A girl who is extremely quiet, intelligent, yet slightly clum
 ![](/assets/mother-19.jpg)
 
 ## \#20 You Get Sick Way More Often
-
-
 
 ![](/assets/mother-20.jpg)
