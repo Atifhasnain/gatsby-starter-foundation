@@ -1,6 +1,8 @@
 import defaultColors from "../util/default-colors.json"
 import darkColors from "../util/dark-theme-colors.json"
 import { lightness } from "@theme-ui/color"
+import AdSense from 'react-adsense';
+
 const theme = {
   colors: {
     ...defaultColors,
@@ -68,4 +70,14 @@ const theme = {
   },
 }
 
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672"
+     crossorigin="anonymous"></script>
+
+      <AdSense.Google
+        client='ca-pub-4648723387452672'
+        slot='2598856337'
+        style={{ display: 'block' }}
+        layout='in-article'
+        format='fluid'
+      />
 export default theme
