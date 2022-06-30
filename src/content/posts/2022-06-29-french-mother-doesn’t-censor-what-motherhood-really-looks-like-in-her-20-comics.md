@@ -10,8 +10,16 @@ Numerous things define Nathalie Jomard. She has a master's degree in digital com
 
 More info: [grumeautique.blogspot.com](https://grumeautique.blogspot.com/) | [nathaliejomard.com](http://nathaliejomard.com/) | [Instagram](https://www.instagram.com/nathaliejomard/) | [Facebook](https://www.facebook.com/Nathalie-Jomard-103641416345805/)
 
-```
-<script async src="\[https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672](https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672&fbclid=IwAR1b1juWo9s5uWFHobQ8Sq-Mix3ObxlsIeLuAZRk89w_VJw9hn-7FAo06yE)" crossorigin="anonymous"></script> <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="2598856337"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
+
+
+```html
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="9248327144"></ins>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 ```
 
 ## **\#1** You’re Feeling Like A Balloon Constantly
@@ -24,9 +32,13 @@ More info: [grumeautique.blogspot.com](https://grumeautique.blogspot.com/) | 
 
 My child is geeky. A girl who is extremely quiet, intelligent, yet slightly clumsy. She is a knucklehead like her mother and is constantly reading. Like his sister, my son is a nerd, but in a different way. He's also highly agitated and active. He is unable to remain still when sitting. He talks a lot and jumps and runs all the time. He really has a talking problem. a genuine talker. He constantly makes up stories, creates absurd artwork, and talks for hours about it. The two of them, according to Nathalie, are incredibly curious about everything around them, which serves as a major source of inspiration for their parenting comics.
 
-```
-<script async src="\[https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672](https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672&fbclid=IwAR1b1juWo9s5uWFHobQ8Sq-Mix3ObxlsIeLuAZRk89w_VJw9hn-7FAo06yE)" crossorigin="anonymous"></script> <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="2598856337"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
-```
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="9248327144"></ins>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ## \#3 The first time you breastfeed is unforgettable
 
@@ -39,10 +51,6 @@ My child is geeky. A girl who is extremely quiet, intelligent, yet slightly clum
 ![](/assets/mother-4.jpg)
 
 ## \#5 our Breasts Are Always Sore
-
-```
-<script async src="\[https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672](https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672&fbclid=IwAR1b1juWo9s5uWFHobQ8Sq-Mix3ObxlsIeLuAZRk89w_VJw9hn-7FAo06yE)" crossorigin="anonymous"></script> <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="2598856337"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
-```
 
 ![](/assets/mother-5.jpg)
 
@@ -66,10 +74,6 @@ My child is geeky. A girl who is extremely quiet, intelligent, yet slightly clum
 
 ![](/assets/mother-11.jpg)
 
-```
-<script async src="\[https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672](https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672&fbclid=IwAR1b1juWo9s5uWFHobQ8Sq-Mix3ObxlsIeLuAZRk89w_VJw9hn-7FAo06yE)" crossorigin="anonymous"></script> <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="2598856337"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
-```
-
 ## \#12 **Trying To Act All Put-Together When…**
 
 ![](/assets/mother-12.jpg)
@@ -81,10 +85,6 @@ My child is geeky. A girl who is extremely quiet, intelligent, yet slightly clum
 ## \#14 **No One Can Prepare You For The Ways Your Kids Might Embarrass You**
 
 ![](/assets/mother-14.jpg)
-
-```
-<script async src="\[https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672](https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672&fbclid=IwAR1b1juWo9s5uWFHobQ8Sq-Mix3ObxlsIeLuAZRk89w_VJw9hn-7FAo06yE)" crossorigin="anonymous"></script> <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="2598856337"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
-```
 
 ## \#15 **The Crisis Might Be Waiting At Any Corner**
 
@@ -107,9 +107,5 @@ My child is geeky. A girl who is extremely quiet, intelligent, yet slightly clum
 ![](/assets/mother-19.jpg)
 
 ## \#20 You Get Sick Way More Often
-
-```
-<script async src="\[https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672](https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672&fbclid=IwAR1b1juWo9s5uWFHobQ8Sq-Mix3ObxlsIeLuAZRk89w_VJw9hn-7FAo06yE)" crossorigin="anonymous"></script> <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="2598856337"></ins> <script> (adsbygoogle = window.adsbygoogle || []).push({}); </script>
-```
 
 ![](/assets/mother-20.jpg)
