@@ -1,4 +1,5 @@
 /** @jsx jsx */
+import AdSense from 'react-adsense';
 import { jsx } from "theme-ui"
 import { graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
@@ -251,6 +252,14 @@ const HomePage = ({ data }) => {
             ""
           )}
         </div>
+        <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
+        <AdSense.Google
+          client='ca-pub-4648723387452672'
+          slot='f08c47fec0942fa0'
+          style={{ display: 'block' }}
+          layout='in-article'
+          format='fluid'
+        />
       </div>
       <BlogListHome data={posts} />
     </Layout>
