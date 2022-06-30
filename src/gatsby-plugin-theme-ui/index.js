@@ -1,6 +1,8 @@
 import defaultColors from "../util/default-colors.json"
 import darkColors from "../util/dark-theme-colors.json"
 import { lightness } from "@theme-ui/color"
+import AdSense from 'react-adsense';
+
 const theme = {
   colors: {
     ...defaultColors,

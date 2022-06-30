@@ -1,5 +1,4 @@
 /** @jsx jsx */
-import AdSense from 'react-adsense';
 import { jsx } from "theme-ui"
 import { graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
