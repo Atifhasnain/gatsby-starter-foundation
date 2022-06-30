@@ -3,6 +3,8 @@ import { jsx } from "theme-ui"
 import { graphql, Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
 import { RiArrowRightSLine } from "react-icons/ri"
+import AdSense from 'react-adsense';
+
 import {
   RiFacebookBoxFill,
   RiTwitterFill,
@@ -252,6 +254,16 @@ const HomePage = ({ data }) => {
           )}
         </div>
       </div>
+      <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672"
+     crossorigin="anonymous"></script>
+
+      <AdSense.Google
+        client='ca-pub-4648723387452672'
+        slot='2598856337'
+        style={{ display: 'block' }}
+        layout='in-article'
+        format='fluid'
+      />
       <BlogListHome data={posts} />
     </Layout>
   )
