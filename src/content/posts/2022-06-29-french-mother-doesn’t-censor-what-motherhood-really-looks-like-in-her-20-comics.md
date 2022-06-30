@@ -10,6 +10,9 @@ Numerous things define Nathalie Jomard. She has a master's degree in digital com
 
 More info: [grumeautique.blogspot.com](https://grumeautique.blogspot.com/) | [nathaliejomard.com](http://nathaliejomard.com/) | [Instagram](https://www.instagram.com/nathaliejomard/) | [Facebook](https://www.facebook.com/Nathalie-Jomard-103641416345805/)
 
+
+
+```html
 <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
 
 <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="9248327144"></ins>
@@ -17,6 +20,7 @@ More info: [grumeautique.blogspot.com](https://grumeautique.blogspot.com/) | 
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
+```
 
 ## **\#1** You’re Feeling Like A Balloon Constantly
 
@@ -35,8 +39,6 @@ My child is geeky. A girl who is extremely quiet, intelligent, yet slightly clum
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
-
 
 ## \#3 The first time you breastfeed is unforgettable
 
