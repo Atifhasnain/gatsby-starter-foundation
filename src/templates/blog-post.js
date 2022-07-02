@@ -131,6 +131,13 @@ const Post = ({ data, pageContext }) => {
           ) : (
             ""
           )}
+          <AdSense.Google
+        client='ca-pub-4648723387452672'
+        slot='2598856337'
+        style={{ display: 'block' }}
+        layout='in-article'
+        format='fluid'
+      />
         </header>
 
         <div
