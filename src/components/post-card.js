@@ -3,6 +3,8 @@ import { jsx } from "theme-ui"
 import { Link } from "gatsby"
 import { GatsbyImage } from "gatsby-plugin-image"
 
+import AdSense from 'react-adsense';
+
 const PostCard = ({ data }) => (
   <article
     className="post-card"
@@ -17,6 +19,13 @@ const PostCard = ({ data }) => (
           alt={data.frontmatter.title + " - Featured image"}
           className="featured-image"
         />
+        <AdSense.Google
+            client='ca-pub-4648723387452672'
+            slot='2598856337'
+            style={{ display: 'block' }}
+            layout='in-article'
+            format='fluid'
+          />
       </Link>
     ) : (
       ""
@@ -31,6 +40,13 @@ const PostCard = ({ data }) => (
         >
           {data.frontmatter.title}
         </Link>
+        <AdSense.Google
+            client='ca-pub-4648723387452672'
+            slot='2598856337'
+            style={{ display: 'block' }}
+            layout='in-article'
+            format='fluid'
+          />
       </h2>
       <p
         className="meta"
