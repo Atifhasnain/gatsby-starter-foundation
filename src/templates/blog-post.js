@@ -7,6 +7,8 @@ import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
+import AdSense from 'react-adsense';
+
 const styles = {
   "article blockquote": {
     "background-color": "cardBg",
