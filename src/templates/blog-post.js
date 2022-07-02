@@ -46,6 +46,13 @@ const Pagination = props => (
               {props.previous.frontmatter.title}
             </span>
           </Link>
+          <AdSense.Google
+            client='ca-pub-4648723387452672'
+            slot='2598856337'
+            style={{ display: 'block' }}
+            layout='in-article'
+            format='fluid'
+          />
         </li>
       )}
       {props.next && props.next.frontmatter.template === "blog-post" && (
@@ -64,12 +71,12 @@ const Pagination = props => (
             <span className="page-title">{props.next.frontmatter.title}</span>
           </Link>
           <AdSense.Google
-        client='ca-pub-4648723387452672'
-        slot='2598856337'
-        style={{ display: 'block' }}
-        layout='in-article'
-        format='fluid'
-      />
+            client='ca-pub-4648723387452672'
+            slot='2598856337'
+            style={{ display: 'block' }}
+            layout='in-article'
+            format='fluid'
+          />
         </li>
         
       )}
@@ -131,6 +138,13 @@ const Post = ({ data, pageContext }) => {
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </article>
+      <AdSense.Google
+            client='ca-pub-4648723387452672'
+            slot='2598856337'
+            style={{ display: 'block' }}
+            layout='in-article'
+            format='fluid'
+          />
       {(previous || next) && <Pagination {...props} />}
     </Layout>
   )
