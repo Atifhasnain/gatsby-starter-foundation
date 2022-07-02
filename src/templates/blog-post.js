@@ -7,6 +7,8 @@ import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
+import AdSense from 'react-adsense';
+
 const styles = {
   "article blockquote": {
     "background-color": "cardBg",
@@ -61,9 +63,18 @@ const Pagination = props => (
             </p>
             <span className="page-title">{props.next.frontmatter.title}</span>
           </Link>
+          <AdSense.Google
+        client='ca-pub-4648723387452672'
+        slot='2598856337'
+        style={{ display: 'block' }}
+        layout='in-article'
+        format='fluid'
+      />
         </li>
+        
       )}
     </ul>
+    
   </div>
 )
 
@@ -90,6 +101,13 @@ const Post = ({ data, pageContext }) => {
         }
         image={Image}
         article={true}
+      />
+      <AdSense.Google
+        client='ca-pub-4648723387452672'
+        slot='2598856337'
+        style={{ display: 'block' }}
+        layout='in-article'
+        format='fluid'
       />
       <article className="blog-post">
         <header className="featured-banner">
