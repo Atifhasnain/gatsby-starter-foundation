@@ -7,8 +7,6 @@ import { RiArrowRightLine, RiArrowLeftLine } from "react-icons/ri"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
 
-import AdSense from 'react-adsense';
-
 const styles = {
   "article blockquote": {
     "background-color": "cardBg",
@@ -114,13 +112,6 @@ const Post = ({ data, pageContext }) => {
           className="blog-post-content"
           dangerouslySetInnerHTML={{ __html: html }}
         />
-        <AdSense.Google
-        client='ca-pub-4648723387452672'
-        slot='2598856337'
-        style={{ display: 'block' }}
-        layout='in-article'
-        format='fluid'
-      />
       </article>
       {(previous || next) && <Pagination {...props} />}
     </Layout>
