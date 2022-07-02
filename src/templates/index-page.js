@@ -26,6 +26,8 @@ import BlogListHome from "../components/blog-list-home"
 import Seo from "../components/seo"
 import Icons from "../util/socialmedia.json"
 
+import AdSense from 'react-adsense';
+
 export const pageQuery = graphql`
   query HomeQuery($id: String!) {
     markdownRemark(id: { eq: $id }) {
@@ -253,6 +255,13 @@ const HomePage = ({ data }) => {
         </div>
       </div>
       <BlogListHome data={posts} />
+      <AdSense.Google
+        client='ca-pub-4648723387452672'
+        slot='2598856337'
+        style={{ display: 'block' }}
+        layout='in-article'
+        format='fluid'
+      />
     </Layout>
   )
 }
