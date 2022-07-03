@@ -109,13 +109,7 @@ const Post = ({ data, pageContext }) => {
         image={Image}
         article={true}
       />
-      <AdSense.Google
-        client='ca-pub-4648723387452672'
-        slot='2598856337'
-        style={{ display: 'block' }}
-        layout='in-article'
-        format='fluid'
-      />
+      
       <article className="blog-post">
         <header className="featured-banner">
           <section className="article-header">
@@ -145,13 +139,7 @@ const Post = ({ data, pageContext }) => {
           dangerouslySetInnerHTML={{ __html: html }}
         />
       </article>
-      <AdSense.Google
-            client='ca-pub-4648723387452672'
-            slot='2598856337'
-            style={{ display: 'block' }}
-            layout='in-article'
-            format='fluid'
-          />
+      
       {(previous || next) && <Pagination {...props} />}
     </Layout>
   )
