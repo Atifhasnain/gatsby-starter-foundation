@@ -11,6 +11,8 @@ import Footer from "./footer"
 import Theme from "../components/theme"
 import Search from "../components/search"
 
+import AdSense from 'react-adsense';
+
 const query = graphql`
   query LayoutQuery {
     site {
@@ -44,6 +46,13 @@ const Layout = ({ children, className, props }) => {
         </div>
       </Header>
       <main className={"container " + className}>{children}</main>
+      <AdSense.Google
+        client='ca-pub-4648723387452672'
+        slot='2598856337'
+        style={{ display: 'block' }}
+        layout='in-article'
+        format='fluid'
+      />
       <Footer />
     </div>
   )
