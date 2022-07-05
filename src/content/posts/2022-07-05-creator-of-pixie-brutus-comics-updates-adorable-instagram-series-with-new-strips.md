@@ -18,15 +18,15 @@ You can also check out Ben's Instagram here.
 
 **stuck(1st comic)**
 
-![a](/assets/291326940_737394770837678_6114226321270424647_n.jpg "b")
+![](/assets/291326940_737394770837678_6114226321270424647_n.jpg)
 
 ![]()
 
-![](/assets/291451100_868148827518414_5878906485239746573_n.jpg)
+![](/assets/screenshot_20220629-150847_gallery.jpg)
 
-![](/assets/291738755_452647232930570_2481619734612169656_n.jpg)
+![](/assets/screenshot_20220629-150858_gallery.jpg)
 
-![](/assets/291738758_523771276191371_7028594906464397182_n.jpg)
+![](/assets/screenshot_20220629-150907_gallery.jpg)
 
 **Snake(2nd comic)**
 
