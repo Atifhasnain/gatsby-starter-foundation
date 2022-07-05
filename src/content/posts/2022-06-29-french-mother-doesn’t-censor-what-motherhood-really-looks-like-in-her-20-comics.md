@@ -10,18 +10,6 @@ Numerous things define Nathalie Jomard. She has a master's degree in digital com
 
 More info: [grumeautique.blogspot.com](https://grumeautique.blogspot.com/) | [nathaliejomard.com](http://nathaliejomard.com/) | [Instagram](https://www.instagram.com/nathaliejomard/) | [Facebook](https://www.facebook.com/Nathalie-Jomard-103641416345805/)
 
-```javascript
-import AdSense from 'react-adsense';
-
-<AdSense.Google
-            client='ca-pub-4648723387452672'
-            slot='2598856337'
-            style={{ display: 'block' }}
-            layout='in-article'
-            format='fluid'
-          />
-```
-
 ## **\#1** You’re Feeling Like A Balloon Constantly
 
 ![french-mother](/assets/mother-1.jpg)
