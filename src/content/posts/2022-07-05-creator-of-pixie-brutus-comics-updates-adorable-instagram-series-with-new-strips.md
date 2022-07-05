@@ -16,17 +16,30 @@ Ben currently has over 2.3 million Instagram followers, many of whom admire Pixi
 
 You can also check out Ben's Instagram here.
 
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="9248327144"></ins>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **stuck(1st comic)**
 
 ![](/assets/291326940_737394770837678_6114226321270424647_n.jpg)
 
 ![]()
 
-
-
 ![](/assets/screenshot_20220629-150847_gallery.jpg)
 
 ![](/assets/screenshot_20220629-150858_gallery.jpg)
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="9248327144"></ins>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ![](/assets/screenshot_20220629-150907_gallery.jpg)
 
