@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: Martin Rosner's "13 Hilarious Comics With Dark Humor And Surprising Twists"
-slug: Martin Rosner's "13 Hilarious Comics With Dark Humor And Surprising Twists"
+title: Martin Rosner's "15 Hilarious Comics With Dark Humor And Surprising Twists"
+slug: Martin Rosner's "15 Hilarious Comics With Dark Humor And Surprising Twists"
 date: 2022-07-06 10:15
 description: "Dark Humor "
 featuredImage: /assets/aa1.png
@@ -27,13 +27,9 @@ More info: [twitter.com](https://twitter.com/HotPaperComics/) | [Instagram](h
    ![](/assets/s2.jpg)
    ![](/assets/s3.jpg)
 
-
-
  ![](/assets/s4.jpg)
 
  ![](/assets/s7.jpg)
-
-
 
  <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
 
@@ -63,5 +59,16 @@ More info: [twitter.com](https://twitter.com/HotPaperComics/) | [Instagram](h
  ![](/assets/s18.jpg)
 
  ![](/assets/s21.jpg)
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
+
+<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="9248327144"></ins>
+
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 ![](/assets/s17.jpg)
+
+![](/assets/s22.jpg)
+
+![](/assets/s23.jpg)
