@@ -4,6 +4,7 @@ title: These  Pixie and Brutus Comics Might Cheer You Up If You're Having a Bad 
 slug: These  Pixie and Brutus Comics Might Cheer You Up If You're Having a Bad Day
 date: 2022-07-06 10:06
 description: Pixie and Brutus Comics
+featuredImage: /assets/20220706_110630_0000.png
 ---
 If you enjoy comic books, you're undoubtedly aware with the Pet Foolery tales featuring Brutus, a former military working dog, and Pixie, a small, vivacious kitten. Like Bored Panda, you're definitely a big admirer of them!
 
