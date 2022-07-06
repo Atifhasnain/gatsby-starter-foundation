@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: Martin Rosner's "20 Hilarious Comics With Dark Humor And Surprising Twists"
-slug: Martin Rosner's "25 Hilarious Comics With Dark Humor And Surprising Twists"
+title: Martin Rosner's "13 Hilarious Comics With Dark Humor And Surprising Twists"
+slug: Martin Rosner's "13 Hilarious Comics With Dark Humor And Surprising Twists"
 date: 2022-07-06 10:15
 description: "Dark Humor "
 featuredImage: /assets/aa1.png
@@ -27,40 +27,15 @@ More info: [twitter.com](https://twitter.com/HotPaperComics/) | [Instagram](h
    ![](/assets/s2.jpg)
    ![](/assets/s3.jpg)
 
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="9248327144"></ins>
 
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
 
  ![](/assets/s4.jpg)
- ```
-   ![](/assets/s5.jpg)
-   ```
- ```
-   ![](/assets/s6.jpg)
-   ```
+
  ![](/assets/s7.jpg)
 
-   ```
-     ![](/assets/s8.jpg)
-   ```
 
-<ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="9248327144"></ins>
 
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
-```
-  ![](/assets/s8.jpg)
-
-  ![](/assets/s10.jpg)
-```
-
- ![](/assets/s11.jpg)
-
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
+ <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
 
 <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="9248327144"></ins>
 
@@ -70,11 +45,9 @@ More info: [twitter.com](https://twitter.com/HotPaperComics/) | [Instagram](h
 
  ![](/assets/s12.jpg)
 
-```
-  ![](/assets/s13.jpg)
+![](/assets/s13.jpg)
 
-  ![](/assets/s14.jpg)
-```
+![](/assets/s18.jpg)
 
  ![](/assets/s15.jpg)
  ![](/assets/s16.jpg)
@@ -87,14 +60,8 @@ More info: [twitter.com](https://twitter.com/HotPaperComics/) | [Instagram](h
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-```
-  ![](/assets/s17.jpg)
-```
-
  ![](/assets/s18.jpg)
 
-```
-  ![](/assets/s20.jpg)
-```
-
  ![](/assets/s21.jpg)
+
+![](/assets/s17.jpg)
