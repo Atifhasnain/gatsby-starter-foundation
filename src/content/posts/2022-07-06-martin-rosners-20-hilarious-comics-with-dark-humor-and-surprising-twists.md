@@ -16,7 +16,7 @@ Check out the most recent comics by the great artist Martin Rosner now. The comi
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-The "Hot Pepper" comic by the artist is well-known. After suffering from severe depression for two years and dropping out of two colleges, Martin was motivated to start creating comics. With the help of counselling, medication, and a lot of self-improvement effort, Martin was able to do this. The creator likes to create comics. On social media, the artist advanced to shading, colouring, and sketching tens of thousands of followers. Martin has 120k Instagram followers. The creator makes many people who enjoy his humorous comics happier. ClickTo read older Martin Rosner comics, go here; to view the most recent comic, scroll below.
+The "Hot Pepper" comic by the artist is well-known. After suffering from severe depression for two years and dropping out of two colleges, Martin was motivated to start creating comics. With the help of counselling, medication, and a lot of self-improvement effort, Martin was able to do this. The creator likes to create comics. On social media, the artist advanced to shading, colouring, and sketching tens of thousands of followers. Martin has 120k Instagram followers. The creator makes many people who enjoy his humorous comics happier. Click To read older Martin Rosner comics, go here; to view the most recent comic, scroll below.
 
 More info: [twitter.com](https://twitter.com/HotPaperComics/) | [Instagram](https://www.instagram.com/martin_rosner/) | [Facebook](https://www.facebook.com/HotPaperComics/)
 
@@ -31,7 +31,7 @@ More info: [twitter.com](https://twitter.com/HotPaperComics/) | [Instagram](h
 
  ![](/assets/s7.jpg)
 
- <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
 
 <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="9248327144"></ins>
 
@@ -59,6 +59,7 @@ More info: [twitter.com](https://twitter.com/HotPaperComics/) | [Instagram](h
  ![](/assets/s18.jpg)
 
  ![](/assets/s21.jpg)
+
 <script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
 
 <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="9248327144"></ins>
