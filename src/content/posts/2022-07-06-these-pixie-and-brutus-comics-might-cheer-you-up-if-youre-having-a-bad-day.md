@@ -30,6 +30,8 @@ More Info: [Instagram](https://www.instagram.com/pet_foolery/) | [Patreon](ht
 
       ![](/assets/a2.jpg)
 
+<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
+
 <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="9248327144"></ins>
 
 <script>
@@ -87,7 +89,6 @@ More Info: [Instagram](https://www.instagram.com/pet_foolery/) | [Patreon](ht
 <script>
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
-
    ![](/assets/c3.jpg)
 
    ![](/assets/c4.jpg)
@@ -108,9 +109,7 @@ More Info: [Instagram](https://www.instagram.com/pet_foolery/) | [Patreon](ht
 
    ![](/assets/d1.jpg)
 
-   ![](/assets/d2.jpg)
-
-<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
+   ![](/assets/d2.jpg)<script async="" src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672" crossorigin="anonymous"></script>
 
 <ins class="adsbygoogle" style="display:block; text-align:center;" data-ad-layout="in-article" data-ad-format="fluid" data-ad-client="ca-pub-4648723387452672" data-ad-slot="9248327144"></ins>
 
