@@ -18,8 +18,6 @@ More Info: Instagram | Patreon
 
 ![](/assets/screenshot_20220708-055838_instagram.jpg)
 
-
-
 ![](/assets/screenshot_20220708-055850_instagram.jpg)
 
 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672"
@@ -38,15 +36,9 @@ More Info: Instagram | Patreon
 
 ![](/assets/screenshot_20220708-055903_instagram.jpg)
 
-
-
 ![](/assets/screenshot_20220708-055916_instagram.jpg)
 
-
-
 ![](/assets/screenshot_20220708-055931_instagram.jpg)
-
-
 
 ![](/assets/screenshot_20220708-055944_instagram.jpg)
 
@@ -68,47 +60,28 @@ More Info: Instagram | Patreon
 
 ![](/assets/screenshot_20220708-060008_instagram.jpg)
 
-
-
 **lap dog.**
 
 ![](/assets/screenshot_20220708-060104_instagram.jpg)
 
-
-
 ![](/assets/screenshot_20220708-060117_instagram.jpg)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672"
-     crossorigin="anonymous"></script>
 
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4648723387452672"
-     data-ad-slot="9248327144"></ins>
+
+<ins 
 
 <script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
+     
 
 ![](/assets/screenshot_20220708-060131_instagram.jpg)
 
-
-
 ![](/assets/screenshot_20220708-060144_instagram.jpg)
 
-
-
 ![](/assets/screenshot_20220708-060156_instagram.jpg)
-
-
 
 "**Freddy KRUEGER**"
 
 ![](/assets/screenshot_20220708-060306_instagram.jpg)
-
-
 
 ![](/assets/screenshot_20220708-060325_instagram.jpg)
 
@@ -128,52 +101,28 @@ More Info: Instagram | Patreon
 
 ![](/assets/screenshot_20220708-060338_instagram.jpg)
 
-
-
 ![](/assets/screenshot_20220708-060354_instagram.jpg)
 
-
-
 ![](/assets/screenshot_20220708-060406_instagram.jpg)
-
-
 
 **I'm not an alien.**
 
 ![](/assets/screenshot_20220708-060453_instagram.jpg)
 
-
-
 ![](/assets/screenshot_20220708-060505_instagram.jpg)
+
+<ins 
+
+
 
 <ins 
 
 <script>
      
 
-![](/assets/screenshot_20220708-060517_instagram.jpg)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4648723387452672"
-     crossorigin="anonymous"></script>
-
-<ins class="adsbygoogle"
-     style="display:block; text-align:center;"
-     data-ad-layout="in-article"
-     data-ad-format="fluid"
-     data-ad-client="ca-pub-4648723387452672"
-     data-ad-slot="9248327144"></ins>
-
-<script>
-     (adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-
 ![](/assets/screenshot_20220708-060530_instagram.jpg)
 
-
-
 ![](/assets/screenshot_20220708-060545_instagram.jpg)
-
-
 
 ![](/assets/screenshot_20220708-060600_instagram.jpg)
 
@@ -193,10 +142,6 @@ More Info: Instagram | Patreon
 
 ![](/assets/screenshot_20220708-060613_instagram.jpg)
 
-
-
 ![](/assets/screenshot_20220708-060627_instagram.jpg)
-
-
 
 ![](/assets/screenshot_20220708-060640_instagram.jpg)
