@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: 20 New Hilarious Illustrations Showing The Horrors Of Daily Life
-slug: 20 New Hilarious Illustrations Showing The Horrors Of Daily Life
+title: 19 New Hilarious Illustrations Showing The Horrors Of Daily Life
+slug: 19 New Hilarious Illustrations Showing The Horrors Of Daily Life
 date: 2022-07-09 06:53
 description: Horrors Of Daily Life
 featuredImage: /assets/20220708_153917_0000.png
