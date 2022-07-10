@@ -6,7 +6,7 @@ slug: Creator of Pixie & Brutus Comics Updates Adorable Instagram Series With 8
   New Strips
 date: 2022-07-10 17:08
 description: Updates Adorable Instagram Series
-featuredImage: /assets/20220710_173516_0000.png
+featuredImage: /assets/20220710_211212_0000.png
 ---
 Ben Hed, an illustrator, made a cute little cartoon about 2 years ago, and he posted it to his Instagram account. It featured a cute kitten named Pixie and her foster brother, a former military dog named Brutus, and was titled "Pixie and Brutus."
 
