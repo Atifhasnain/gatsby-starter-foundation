@@ -1,7 +1,7 @@
 ---
 template: blog-post
-title: Pixie & Brutus' Comic Creator Adds New Strips
-slug: Pixie & Brutus' Comic Creator Adds New Strips
+title: Pixie and Brutus' Comic Creator Adds New Strips
+slug: Pixie and Brutus' Comic Creator Adds New Strips
 date: 2022-07-14 08:12
 description: Comic
 featuredImage: /assets/20220714_083203_0000.png
