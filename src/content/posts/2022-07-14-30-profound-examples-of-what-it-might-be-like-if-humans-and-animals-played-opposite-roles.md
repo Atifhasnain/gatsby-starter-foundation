@@ -5,7 +5,7 @@ title: 30 profound examples of what it might be like if humans and animals
 slug: 30 profound examples of what it might be like if humans and animals played
   opposite roles.
 date: 2022-07-14 09:21
-description: humans and animals
+description: "Animals "
 featuredImage: /assets/20220714_095835_0000.png
 ---
 People frequently take their routines for granted. Some people don't think it's ethical to treat animals cruelly or deny them the chance to live. They often provide numerous justifications for doing so. It might be due to the fact that people are more clever or that we hunt them for food in order to survive, but people are also a type of animal.
