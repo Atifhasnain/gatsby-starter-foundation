@@ -5,7 +5,7 @@ title: Profound examples of what it might be like if humans and animals played
 slug: Profound examples of what it might be like if humans and animals played
   opposite roles.
 date: 2022-07-14 09:21
-description: "Animals "
+description: "animals "
 featuredImage: /assets/20220714_095835_0000.png
 ---
 People frequently take their routines for granted. Some people don't think it's ethical to treat animals cruelly or deny them the chance to live. They often provide numerous justifications for doing so. It might be due to the fact that people are more clever or that we hunt them for food in order to survive, but people are also a type of animal.
@@ -16,7 +16,7 @@ The following photographs demonstrate what life would be like if people and anim
 
 The brilliant illustrator behind this thought-provoking series is Barbara Daniels. Scroll down to see her incredible artwork. You can come to realize a lot of things that you hadn't previously considered.
 
-\#1
+\#
 
 ![](/assets/screenshot_20220714-092342_facebook.jpg)
 
@@ -34,7 +34,7 @@ The brilliant illustrator behind this thought-provoking series is Barbara Daniel
      (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 
-\#2
+\#
 
 ![](/assets/screenshot_20220714-092449_facebook.jpg)
 
