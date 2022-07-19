@@ -1,8 +1,8 @@
 ---
 template: blog-post
-title: 30 profound examples of what it might be like if humans and animals
-  played opposite roles.
-slug: 30 profound examples of what it might be like if humans and animals played
+title: Profound examples of what it might be like if humans and animals played
+  opposite roles.
+slug: Profound examples of what it might be like if humans and animals played
   opposite roles.
 date: 2022-07-14 09:21
 description: "Animals "
